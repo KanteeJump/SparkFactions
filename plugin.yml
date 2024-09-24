@@ -1,0 +1,4 @@
+name: SparkFactions
+main: kanteejump\SparkFactions
+version: 1.0.0
+api: 5.19.0
